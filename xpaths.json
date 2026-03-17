@@ -1,0 +1,3 @@
+{
+  "json_xpath":"string(.//script[@type='application/ld+json'])"
+}
